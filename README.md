@@ -1,6 +1,6 @@
-# Puzzle Palooza
+# Puzzle
 
-Puzzle Palooza is an interactive Android game that challenges players to solve image puzzles within a specified time frame. Players can create their own puzzles or join puzzles created by their friends using unique game IDs. The game fosters competition and collaboration by displaying a leaderboard at the end of each game session.
+Puzzle is an interactive Android game that challenges players to solve image puzzles within a specified time frame. Players can create their own puzzles or join puzzles created by their friends using unique game IDs. The game fosters competition and collaboration by displaying a leaderboard at the end of each game session.
 
 ## Features
 
@@ -23,7 +23,7 @@ Puzzle Palooza is an interactive Android game that challenges players to solve i
 
 ## Target Audience
 
-Puzzle Palooza is suitable for casual gamers, puzzle enthusiasts, and social groups looking for a fun and interactive way to challenge each other.
+Puzzle is suitable for casual gamers, puzzle enthusiasts, and social groups looking for a fun and interactive way to challenge each other.
 
 ## Monetization
 
