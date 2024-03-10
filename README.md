@@ -2,6 +2,12 @@
 
 Puzzle is an interactive Android game that challenges players to solve image puzzles within a specified time frame. Players can create their own puzzles or join puzzles created by their friends using unique game IDs. The game fosters competition and collaboration by displaying a leaderboard at the end of each game session.
 
+![1708515330468_100](https://github.com/Olaoluwa99/Puzzle/assets/85140182/f3d731c1-af92-429c-8653-9f4819244e52)
+
+![1708515346102_100](https://github.com/Olaoluwa99/Puzzle/assets/85140182/c1df8bbc-d6e4-411c-91d4-5fda8808e001)
+
+![1708515357748_100](https://github.com/Olaoluwa99/Puzzle/assets/85140182/c5bd7f24-39d7-44fc-8f40-174c22b7d387)
+
 ## Features
 
 - **Create Puzzle:** Users can upload or select an image from their device gallery to create a puzzle. They can choose the number of pieces the image will be cut into.
